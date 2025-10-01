@@ -1,0 +1,20 @@
+# Node modules (ignore in all subdirectories)
+**/node_modules/
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment files
+project1/server/.env
+project1/client/.env
+
+# Build output
+project1/client/build/
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
