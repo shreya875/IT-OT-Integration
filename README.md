@@ -1,4 +1,4 @@
-# MES System (Track 2) – Project Overview and Setup
+# MES System – Project Overview and Setup
 
 This project is a simplified ISA-95 style Manufacturing Execution System (MES) demo with:
 - ERP service that accepts production orders and publishes them to MQTT.
